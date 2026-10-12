@@ -1,0 +1,8 @@
+{
+  "name": "Pelatihan Excel 2016 ASN OAP - BKPSDM Papua Selatan",
+  "description": "Presentasi Interaktif 3D Modul Pelatihan Komputer ASN OAP Microsoft Excel 2016 Tahun 2026 Badan Kepegawaian dan Pengembangan Sumber Daya Manusia Provinsi Papua Selatan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
